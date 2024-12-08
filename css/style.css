@@ -1,6 +1,6 @@
 nav {
   display: flex;
-  justify-content: space-between; /* Space between the flex children */
+  justify-content: space-between; 
   align-items: center; 
 }
 
